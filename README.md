@@ -1,42 +1,29 @@
-# addressBook
+# Updated Address Book
 
-##### Epicodus Section:  JavaScript OO - Address Book
+#### By Andrew Cho and Izzy George
 
-#### By Epicodus Lessons
+## Description  
+_Not only creates an address book with contacts and phone numbers allocated to the contacts, but hide/show based on the click of the specific address._
 
-## Description
+## Setup/Installation Requirements
+* Open index.html to view page.  
+*  Open CMD/Terminal
+* git clone (github url)
+* cd into Github Repo
+* Open index.html
 
-This application is a demonstration of constructors and prototypes using JavaScript to create a simple Address Book app.
+## Known Bugs
+_No known bugs!_  
 
-## Setup
+## Technologies Used  
+* HTML
+* CSS/Bootstrap
+* Javascript
+* Jquery
+* Mocha/Chai (TDD)  
 
-Install addressBook by cloning this repository.
+## Support and contact details
+_If any contact is needed you can reach me at my email at cho-andrew@hotmail.com_  
 
-## Technologies Used
-
-Application: JavaScript and jQuery
-Testing:  Mocha and Chai
-
-### Legal
-
-Copyright (c) 2015 **Epicodus**
-
-This software is licensed under the MIT license.
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in
-all copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
-THE SOFTWARE.
+### License  
+*This software is licensed under the MIT license.*  Copyright (c) 2016 **By Andrew Cho**
